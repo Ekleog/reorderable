@@ -1,0 +1,10 @@
+[package]
+name = "reorderable"
+version = "0.1.0"
+authors = ["Léo Gaspard <leo@gaspard.io>"]
+edition = "2018"
+
+[features]
+plz-ub = []
+
+[dependencies]
